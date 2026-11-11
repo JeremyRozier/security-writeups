@@ -2,6 +2,7 @@ writeup.html
 **/writeup.html
 
 encrypted/
+.staticrypt.json
 
 color.js
 web-client/
