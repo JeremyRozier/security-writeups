@@ -1,0 +1,11 @@
+writeup.html
+**/writeup.html
+
+encrypted/
+
+color.js
+web-client/
+*.payload
+
+.DS_Store
+node_modules/
